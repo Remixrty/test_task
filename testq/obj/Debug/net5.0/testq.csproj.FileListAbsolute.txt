@@ -1,0 +1,16 @@
+C:\Users\remix\source\repos\testq\bin\Debug\net5.0\testq.exe
+C:\Users\remix\source\repos\testq\bin\Debug\net5.0\testq.deps.json
+C:\Users\remix\source\repos\testq\bin\Debug\net5.0\testq.runtimeconfig.json
+C:\Users\remix\source\repos\testq\bin\Debug\net5.0\testq.runtimeconfig.dev.json
+C:\Users\remix\source\repos\testq\bin\Debug\net5.0\testq.dll
+C:\Users\remix\source\repos\testq\bin\Debug\net5.0\ref\testq.dll
+C:\Users\remix\source\repos\testq\bin\Debug\net5.0\testq.pdb
+C:\Users\remix\source\repos\testq\obj\Debug\net5.0\testq.csprojAssemblyReference.cache
+C:\Users\remix\source\repos\testq\obj\Debug\net5.0\testq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remix\source\repos\testq\obj\Debug\net5.0\testq.AssemblyInfoInputs.cache
+C:\Users\remix\source\repos\testq\obj\Debug\net5.0\testq.AssemblyInfo.cs
+C:\Users\remix\source\repos\testq\obj\Debug\net5.0\testq.csproj.CoreCompileInputs.cache
+C:\Users\remix\source\repos\testq\obj\Debug\net5.0\testq.dll
+C:\Users\remix\source\repos\testq\obj\Debug\net5.0\ref\testq.dll
+C:\Users\remix\source\repos\testq\obj\Debug\net5.0\testq.pdb
+C:\Users\remix\source\repos\testq\obj\Debug\net5.0\testq.genruntimeconfig.cache
